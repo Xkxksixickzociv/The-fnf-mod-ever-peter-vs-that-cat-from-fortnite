@@ -1,0 +1,26 @@
+{
+	"storyName": "fortnite",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"i-remember-fortnite",
+			"pitogifi-icon",
+			[
+				0,
+				153,
+				51
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week fort"
+}
